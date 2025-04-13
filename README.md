@@ -5,6 +5,10 @@
 这是一个专业的文件上传安全测试工具，旨在帮助安全研究人员和开发者全面检测Web应用文件上传功能的安全漏洞。该工具通过生成多种文件上传绕过技术的Payload，帮助识别潜在的安全风险。
 主要特性
 
+upload fuzz
+upload exp
+文件上传 fuzz工具
+
 ![1](https://github.com/user-attachments/assets/5495b16e-e411-4edd-9016-923396d7d199)
 ![2](https://github.com/user-attachments/assets/34a2f169-c16f-4bd7-8805-0e262e3b6f92)
 ![3](https://github.com/user-attachments/assets/2abba2e5-0b6e-4925-98c0-c5ced703183f)
